@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  overflow-y: auto;
+  border: 1px solid #ccc;
+}
+
+.item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+}
