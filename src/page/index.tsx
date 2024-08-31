@@ -1,10 +1,9 @@
-import ForYou from "../components/card";
+import Carousel from "../components/Carousel";
 
 export default function Initial() {
   return (
     <div>
-      \ aopkokpawkopdaw
-      <ForYou />
+      <Carousel />
     </div>
   );
 }
